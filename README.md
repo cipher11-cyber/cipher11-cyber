@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Cipher
 
-<!--
-**cipher11-cyber/cipher11-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High school student passionate about cybersecurity, ethical hacking, and offensive security.  
+🔐 Currently learning: Advanced network attacks, Wi-Fi hacking, MITM, ARP spoofing.  
+🎯 Goal: Earn the PJNPT certification and land a cybersecurity role.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Skills I'm exploring:
+- Kali Linux, Wireshark, Burp Suite, Metasploit
+- Nmap, aircrack-ng, netcat, Hydra
+- Linux basics, Bash scripting
+
+---
+
+## 🚀 Next Steps:
+- Build a Wi-Fi hacking lab with real-world simulations
+- Capture flags on TryHackMe & HackTheBox
+- Complete PJNPT & start posting my learning journey here
+
+---
+
+
