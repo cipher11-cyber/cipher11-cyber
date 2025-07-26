@@ -1,0 +1,26 @@
+WPA / WPA2 
+
+ WPA/WPA2
+ ● Both can be cracked using the same methods
+ ● Made to address the issues in WEP.
+ ● Much more secure.
+ ● Each packet is encrypted using a unique temporary key.
+ → Packets contain no useful information
+
+WPA / WPA2 Cracking
+ WPA/WPA2
+ ● WPS is a feature that can be used with WPA & WPA2.
+ ● Allows clients to connect without the password.
+ ● Authentication is done using an 8 digit pin.
+ ○ 8 Digits is very small.
+ ○ We can try all possible pins in relatively short time.
+ ○ Then the WPS pin can be used to compute the actual password.
+ PS: This only works if the router is configured not to use PBC (Push Button 
+Authentication). 
+
+
+WPS enabled:
+
+find out first = wash --interface wlan0
+then run reaver = raver --bssid <> --channel --interface wlan0 -vvv --no-associate
+then run fake auth = aireplay --fakeauth 30 -a <target router mac> -h <your mac> wlan0
