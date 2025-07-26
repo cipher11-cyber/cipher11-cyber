@@ -1,0 +1,17 @@
+MAC(media access control) ADRESS:
+
+
+Why change MAC adress:
+1) Increase anonymity.
+2) Impersonate other sevices or copy other device MAC adress.
+3)Bypass filters.
+
+MAC spoofing = is the chnaging of MAC adress not physically.
+
+ifconfig (interface) down = temporary turns off the interface.
+ifconfig (interface) hw ether (MAC ADRESS) = change mac adress.
+ifconfig (interface) up = turns on the interface
+
+
+
+systemctl restart NetworkManager = restarts the Network manager.

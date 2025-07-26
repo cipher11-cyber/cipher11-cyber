@@ -1,0 +1,10 @@
+WIRELESS MODES(managed and monitor) = managed is basically like the same as the built in cards in laptops.
+
+
+Monitor captures all the packets sent over the network and much more.
+
+TURN OFF WLAN0 FIRST!
+
+airmon-ng check kill = kills all process could interfere when using monitor mode.
+iwconfig wlan0 mode monitor = switches to monitor mode.
+

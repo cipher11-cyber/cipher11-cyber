@@ -1,0 +1,10 @@
+Network Mapping
+  Nmap/Zenmap
+
+● HUGE security scanner.
+● From an IP/IP range it can discover:
+○ Open ports.
+○ Running services.
+○ Operating system.
+○ Connected clients.
+○ + more
