@@ -1,0 +1,5 @@
+DIFFERENT ARP SPOOFING TECHINQUES:
+
+1) using mitm technique = mitmf --arp --spoof -i wlan0 --gateway(your gateway u\ip)
+2) Using bettercap = just start bettercap and it will guide you all the steps
+3) Using ettercap = ettercap -Tq -M arp:remote -i eth0    
