@@ -5,6 +5,7 @@
 🎯 1st Goal: Earn the PJPT certification.
 
 ---I know some of this might seem basic or cringe to others, but everyone starts somewhere — I’m learning, building myself, and growing every day, so please don’t judge.
+
 Everything i learned and the tools i learned before my way to earning CERTICATES is in the next section.
 Most of the stuffs in the next section that is called (BEGINNER HACKING/SUMMARY) is beginner beacuse is mostly attacking and yh but everyone starts from somewhere so i decided to
 share it. 
