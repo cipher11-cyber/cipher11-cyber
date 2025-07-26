@@ -1,23 +1,10 @@
-# 👋 Hey, I'm Cipher
+# 👋 Hey, I'm Cipher, i know one or two when it comes to ethical hacking but thats not it, am on my way to get top certficates and my first certficate goal is the PJPT(practical junio pentration tester) then my way to PNPT (practical network penetration tester) then build up my way to higher certificates In sha allah.
 
 🎓 High school student passionate about cybersecurity, ethical hacking, and offensive security.  
-🔐 Currently learning: Advanced network attacks, Wi-Fi hacking, MITM, ARP spoofing.  
-🎯 Goal: Earn the PJNPT certification and land a cybersecurity role.
+🔐 Currently learning: .  
+🎯 1st Goal: Earn the PJPT certification.
 
 ---
-
-## 🧰 Tools & Skills I'm exploring:
-- Kali Linux, Wireshark, Burp Suite, Metasploit
-- Nmap, aircrack-ng, netcat, Hydra
-- Linux basics, Bash scripting
-
----
-
-## 🚀 Next Steps:
-- Build a Wi-Fi hacking lab with real-world simulations
-- Capture flags on TryHackMe & HackTheBox
-- Complete PJNPT & start posting my learning journey here
-
----
-
-
+Everything i learned and the tools i learned before my CERTFICATE JOURNEY is in the next section.
+Most of the stuffs in the next section that is called (BEGINNER HACKING) is beginner beacuse is mostly attacking and yh but everyone starts from somewhere so i decided to
+share it.
