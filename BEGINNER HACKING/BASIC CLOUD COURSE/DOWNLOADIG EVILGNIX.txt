@@ -1,0 +1,14 @@
+SUDO APT UPDATE
+
+apt insatll git make golang-go = THIS IS THE FIRST STEP TO DOWNLOAD EVILGNIX.
+
+SECOND to download YOU have to be in the directry of /opt. IS not amust you have to be 
+in that directory but its where optional stuffs are downloaded hence the name opt.
+
+
+Then after that donwload evilgnix from github by simply typing = git clone https://github.com/kgretzky/evilginx2.git
+
+Then download the phishing pages by simpley going to github again = git clone https://github.com/An0nUD4Y/Evilginx2-Phishlets.git
+
+LASTLY we have to start evilnix program  = build/evilgnix -p Evilgnix2-phishlets.
+ From there you link your domain name to evilgnix then let evilgnix do the work.
