@@ -12,3 +12,6 @@ share it.
 
 And i will aslo be taking some other side courses before i start my journey to the CERTIFICATES and they will teach me a lot so i will update them in my (BEGINNER HACKING)
 
+❗❗I MADE ANOTHER DIRECTORY CALLED (BASIC CLOUD COURSE) --This are just some ethical stuufs you can do in the cloud like hacking from the cloud instead from your machine.
+I took this course and how you can do much more in the cloud like AWS service and others. SO CHECK IT OUT--
+
