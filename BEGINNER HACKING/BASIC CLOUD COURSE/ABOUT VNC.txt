@@ -16,27 +16,3 @@ THEN install a VNC client in your laptop so you can connect to your VNC server.
 
 
 
-LETS MOVE TO novnc.
-
-USING NOVNC=
-
-FIRST DOWNLOAD THE TOOL BY = sudo apt install novnc
-THEN just set your tightvncserver depth to look more original = tightvncserver -geometry 1920x1080 -depth 30
-THEN  = /usr/share/novnc/utils/novnc_proxy --listen 80 --vnc localhost:5901
-This will create a website on novnc then type it in your browser.
-
-firefox --kiosk https://gmail.com = This will run firefox in gmail with no taolbars at the
-                                    website.
-
-
-GENERATING A TLS CERTIFICATE FOR THE VNC SERVER = certbot certonly -d <DOMAIN NAME> --standalone
-
-Certificate is saved at: /etc/letsencrypt/live/hackwithcipher.info/fullchain.pem
-Key is saved at:         /etc/letsencrypt/live/hackwithcipher.info/privkey.pem
-
-Certificate is saved at: /etc/letsencrypt/live/hackwithcipher.info-0001/fullchain.pem
-Key is saved at:         /etc/letsencrypt/live/hackwithcipher.info-0001/privkey.pem
-
-
-
-
