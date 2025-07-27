@@ -7,8 +7,9 @@
 ---I KNOW SOME OF THIS MIGHT SEEM BASIC OR CRINGE TO OTHERS, BUT EVERYONE STARTS SOMEWHERE I’M LEARNING, BUILDING MYSELF, AND GROWING EVERY DAY, SO PLEASE DON’T JUDGE.---
 
 Everything i learned and the tools i learned before my way to earning CERTICATES is in the next section.
-Most of the stuffs in the next section that is called (BEGINNER HACKING/SUMMARY) is beginner beacuse is mostly attacking and yh but everyone starts from somewhere so i decided to ❗❗= This are short notes wich dont cover everything step by step but it works for me since i studied step by step and writing step by step is a lot.
-share it. 
+Most of the stuffs in the next section that is called (BEGINNER HACKING/SUMMARY) is beginner beacuse is mostly attacking and yh but everyone starts from somewhere so i decided to share it.
+❗❗= This are short notes wich dont cover everything step by step but it works for me since i studied step by step and writing step by step is a lot.
+
 
 And i will aslo be taking some other side courses before i start my journey to the CERTIFICATES and they will teach me a lot so i will update them in my (BEGINNER HACKING)
 
