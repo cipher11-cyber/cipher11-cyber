@@ -1,8 +1,8 @@
-First you need to install nginx with ceetbot so it will have a lets encrypt certifiacte.
+First you need to install nginx with certbot so it will have a lets encrypt certifiacte.
 Its the same as installing certificate on apache web server but it gets a liitle bit different
 
 TO install = apt install nginx certbot python3-certbot-nginx -y
-Then u need to tell your domain name so u have https when you visit it = certbot --nginx -d hackwithcipher.info
+Then u need to tell your domain name so u have https when you visit it = certbot --nginx -d example.com
 
 AFter that you need to configure the nginx configuration file so it points to the tool you want and so to work = nano /etc/nginx/sites-available/default  
 after that configure the configuration file then restart nginx and nginx will act as a reverse proxy handling https and redirecting it to your tool
